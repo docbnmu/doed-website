@@ -7,7 +7,7 @@ module.exports = {
     siteTitle: `Department of Education`,
     siteTitleAlt: `Department of Education, BNMU.`,
     siteHeadline: `University Department of Education, B. N. Mandal University.`,
-    siteUrl: `https://doed.docbnmu.in`,
+    siteUrl: `https://doedbnmu.in`,
     siteDescription: `Bhupendra Narayan Mandal University is at the district headquarters, Madhepura. It acts as an affiliating institution and offers undergraduate, graduate and PhD programs through its constituents, affiliated colleges, and institutes in Madhepura and nearby cities.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
@@ -19,19 +19,19 @@ module.exports = {
       navigation: [
         {
           title: `Notice`,
-          slug: `/notice/`,
+          slug: `/notice`,
         },
 {
-          title: `Example`,
-          slug: `/syllabus/`,
+          title: `Syllabus`,
+          slug: `/syllabus`,
         },
         {
-          title: `Example`,
-          slug: `/faculty/`,
+          title: `Staff`,
+          slug: `/staff`,
         },
         {
-          title: `Example`,
-          slug: `/statistics/`,
+          title: `About`,
+          slug: `/about`,
         },
         ],
     },
@@ -45,7 +45,7 @@ module.exports = {
         description: `University Department of Education at Bhupendra Narayan Mandal University (BNMU), Madhepura`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#6B46C1`,
+        theme_color: `#19212c`,
         display: `standalone`,
         icons: [
           {

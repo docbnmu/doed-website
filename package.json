@@ -15,8 +15,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "https://github.com/docbnmu/gatsby-theme-minimal/releases/download/1.0/lekoarts-gatsby-theme-minimal-blog-2.2.0.tgz",
-    "@lekoarts/gatsby-theme-minimal-blog-core": "https://github.com/docbnmu/gatsby-theme-minimal-core/releases/download/1.0/lekoarts-gatsby-theme-minimal-blog-core-2.2.0.tgz",
+    "@lekoarts/gatsby-theme-minimal-blog": "https://github.com/docbnmu/doed-website/releases/download/1.0/lekoarts-gatsby-theme-minimal-blog-2.2.0.tgz",
+    "@lekoarts/gatsby-theme-minimal-blog-core": "https://github.com/docbnmu/doed-website/releases/download/1.0/lekoarts-gatsby-theme-minimal-blog-core-2.2.0.tgz",
     "gatsby": "^2.19.5",
     "gatsby-plugin-manifest": "^2.2.3",
     "gatsby-plugin-netlify": "^2.1.3",
