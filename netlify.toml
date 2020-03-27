@@ -1,13 +1,7 @@
 [build]
     command = "npm install && gatsby build"
     publish = "public/"
-
-[context.production.environment]
-    NODE_ENV = "production"
-
-[template.environment]
-    TZ = "Asia/Calcutta"
-
+    
 [[redirects]]
     from = "*"
     to = "/404"
