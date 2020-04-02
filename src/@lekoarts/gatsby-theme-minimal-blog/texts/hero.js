@@ -26,7 +26,7 @@ const slideImages = [
 const properties = {
   duration: 2500,
   transitionDuration: 300,
-  infinite: true,
+  infinite: false,
   indicators: true,
   arrows: true,
   pauseOnHover: true,
