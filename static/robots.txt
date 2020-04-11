@@ -1,4 +1,4 @@
 user-agent: *
 disallow: /*.pdf
 
-sitemap: /sitemap.xml
+sitemap: https://doedbnmu.in/sitemap.xml
