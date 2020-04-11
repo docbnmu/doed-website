@@ -37,32 +37,8 @@ module.exports = {
     },
   },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `University Department of Education`,
-        short_name: `Dept. of Edu.`,
-        description: `University Department of Education at Bhupendra Narayan Mandal University (BNMU), Madhepura`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#19212c`,
-        display: `standalone`,
-        icons: [
-          {
-            src: `/android-chrome-192x192.png`,
-            sizes: `192x192`,
-            type: `image/png`,
-          },
-          {
-            src: `/android-chrome-512x512.png`,
-            sizes: `512x512`,
-            type: `image/png`,
-          },
-        ],
-      },
-    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-netlify`,
-    // `gatsby-plugin-webpack-bundle-analyser-v2`,
+    `gatsby-plugin-remove-serviceworker`,
   ],
 }
